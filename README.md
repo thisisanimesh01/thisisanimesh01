@@ -60,4 +60,4 @@ Predict house prices based on features like area, location, number of rooms, etc
 
 ---
 
-<p align="center">Thanks for stopping by! 🚀 More projects coming soon!</p>
+<p align="center">Thanks for stopping by! 🚀 More projects coming soon..!</p>
