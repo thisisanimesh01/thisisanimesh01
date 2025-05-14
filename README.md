@@ -3,7 +3,7 @@
 <p align="center">
   💻 AI & ML Enthusiast | 🎓 B.E. CSE (AI & ML) @ Chandigarh University <br>
   📍 Based in India | 🛠️ Learning & Building Cool Tech Stuff <br>
-  🌱 I’m constantly learning, experimenting, and building projects that push the limits of technology. I am particularly passionate about **Artificial Intelligence**, **Machine Learning**, and **Deep Learning**.
+  🌱 I’m constantly learning, experimenting, and building projects that push the limits of technology. I am particularly passionate about Artificial Intelligence, Machine Learning, and Deep Learning.
 </p>
 
 ---
