@@ -15,7 +15,7 @@ I’m an undergraduate student pursuing **B.E. in Computer Science Engineering**
 - 🔭 I’m currently working on several personal AI-based projects.
 - 🌱 I’m learning **TensorFlow**, **PyTorch**, **Flask**, **React**, and **web development**.
 - 👯 I’m looking to collaborate on **AI/ML projects**, **web applications**, and **Open Source contributions**.
-- 📫 How to reach me: [email me](mailto:your.thisisanimesh01@gmail.com).
+- 📫 How to reach me: [email me](mailto:thisisanimesh01@gmail.com).
 - ⚡ Fun fact: When I'm not coding, I'm experimenting with new technologies or working on my **personal assistant project**.
 
 ---
@@ -94,7 +94,7 @@ An AI-driven legal assistant that helps analyze legal documents and extract valu
 ## 🌐 **Connect With Me**
 
 <p>
-  <a href="mailto:your.thisisanimesh01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:thisisanimesh01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/animesh-yadav-39460b276/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/thisisanimesh01"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
