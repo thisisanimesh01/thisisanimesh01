@@ -1,6 +1,7 @@
-#  Hi, I'm Animesh Yadav
+<h1 align="center">Hi there, I'm Animesh Yadav <img src="https://www.google.com/search?q=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">Aspiring AI Engineer | System Programmer | Web Developer</h3>
 
-**Aspiring AI Engineer | System Programmer | Web Developer**
+
 
 Welcome to my GitHub! I'm an enthusiastic and curious computer science undergrad at Chandigarh University, specializing in Artificial Intelligence and Machine Learning. I love building intelligent systems that solve real-world problems, from smart bots to custom programming languages.
 
