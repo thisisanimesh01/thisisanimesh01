@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Animesh Yadav
+#  Hi, I'm Animesh Yadav
 
 **Aspiring AI Engineer | System Programmer | Web Developer**
 
