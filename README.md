@@ -60,7 +60,8 @@ A basic Unix-style shell built in Rust supporting commands, parsing, and directo
 
 - 📧 Email: [thisisanimesh01@gmail.com](mailto:thisisanimesh01@gmail.com)
 - 🌐 LinkedIn: [linkedin.com/in/animesh-yadav-39460b276](https://linkedin.com/in/animesh-yadav-39460b276)
-- 🧑‍💻 Portfolio (Coming Soon!)
+- 🧑‍💻 Portfolio :[thisisanimesh01.github.io/Portfolio](https://thisisanimesh01.github.io/Portfolio/)
+
 
 ---
 
