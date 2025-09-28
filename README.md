@@ -2,7 +2,7 @@
 **Aspiring AI Engineer | System Programmer | Web Developer**  
 
 
-Welcome to my GitHub! I'm an enthusiastic and curious computer science undergrad at Chandigarh University, specializing in Artificial Intelligence and Machine Learning. I love building intelligent systems that solve real-world problems, from smart bots to custom programming languages.
+Welcome to my GitHub! I'm an enthusiastic and curious computer science undergrad, specializing in Artificial Intelligence and Machine Learning. I love building intelligent systems that solve real-world problems, from smart bots to custom programming languages.
 
 - 📍 Currently pursuing **B.E. in Computer Science (AI & ML)** – *Class of 2027*
 - 🧠 Interested in AI, system programming, and impactful software solutions
