@@ -1,4 +1,5 @@
-# Hi, I'm Animesh 👋
+<h1 align="center">Hi, I'm Animesh 👋</h1>
+
 
 🎓 CS (AI/ML) student  
 🧠 Interested in machine learning systems, computer vision, and performance optimization  
